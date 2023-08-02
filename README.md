@@ -16,11 +16,16 @@ ML (Logistic Regression Model)
 ML  Root-Mean-Squared-Error (RMSE) 
 MongoDB? 
 
-Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
-
-
-
-
-
-
 Changes and outcomes: 
+Oringal 
+Secondary
+
+
+
+Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
+Data Description txt file added 
+
+
+
+
+
