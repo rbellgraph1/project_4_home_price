@@ -1,16 +1,17 @@
-# project_4_home_price
+# Project 4 Home Price
 
-Project Room 1 Team
+### **Project Description:<br>**
+Predict Housing prices
+
+### **Project Room 1 Team:**
 
 - Matt Siriani
 - Vincent DeScioli
 - Phil  Okoth
 - Robert Bellgraph
 
-Project Description
-Predict Housing prices
 
-Using: 
+### **Using:** 
 - Pandas 
 - Matplotlib
 - Seaborn
@@ -20,12 +21,12 @@ Using:
 - ML  Root-Mean-Squared-Error (RMSE) 
 
 
-Changes and outcomes: 
+### **Changes and outcomes:**
 Oringal 
 Secondary
 
-
-Changes to normalized. 
+### *Testing Changes and Outcomes**
+Changed to normalized. 
 Training features with 3 layers and we are about $35K veriance. <br>Using all as relu 25,25,12 layers <br>
 Down to 2 layers and changed to $65K variance. <br>
 Using LeakReLU as the second layer with 50 and 50 gave us about 45K and  changed back to 25 and 25 with and ended with 65k <br>
