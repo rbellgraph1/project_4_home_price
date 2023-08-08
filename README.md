@@ -29,43 +29,26 @@ Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
 
 
 ### **Changes and outcomes:**
-Oringal 
-Secondary
-
-
+We had used variables of 15, 22, and 60(all). We tested many vatiations of Featues, Neuron/Layers, activation functions and epochs to determine our best performance. Below are some examples. 
 <br><br>
-
 ### **Testing Changes and Outcomes**
-*15 variables Using Dummies Model:*
+*15 variables Using Dummies Model testing:*
 
 - 50,50,35   relu, relu, relu, relu  output relu Using 100 Epocks 
 Rmse   27297   is the estimated that we would see. 
 
-- 35,35,12   LeakyReLU , LeakyReLU ,LeakyReLU , output LeakyReLU using 100 
-Rmse  31863   is the estimated that we would see. 
-
-- 75,75,35   LeakyReLU , LeakyReLU ,LeakyReLU , output ReLU using 100 
-Rmse  49859.1094   is the estimated that we would see.
-
 - 75,75,35   LeakyReLU , ReLU ,ReLU , output ReLU using 100 
 Rmse  30640.2910   is the estimated that we would see.
 
-- 75,75,35  ReLU, LeakyReLU ,ReLU , output ReLU using 100 
-Rmse  26541.9277   is the estimated that we would see.
-
-- 25,25,12  ReLU, ReLU ,ReLU , output LeakyReLU using 100 
-Rmse  30362.1641   is the estimated that we would see.
-
-- 25,25,12  ReLU, ReLU ,ReLU , output ReLU using 100 
-Rmse  29295.9590   is the estimated that we would see.
-
 - 75,75,40  ReLU, ReLU ,ReLU , output ReLU using 110 
-Rmse  *25,739.3203*   is the estimated that we would see.
+Rmse  25,739.3203  is the estimated that we would see.
 
 - 75,75,40  tanh, ReLU ,ReLU , output ReLU using 110 
 Rmse  35952.0664   is the estimated that we would see.
 
-Using Sigmoid activation as the output we could see rsme greater than 150000
+RELU was the best fit for out models overall performance. 
+
+### *Additional Charts and detail:*
 
 ![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/b2b94591-6953-49b6-b48d-b00f29639f1f)
 
