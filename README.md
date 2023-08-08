@@ -64,7 +64,3 @@ Using Sigmoid activation as the output we would see rsme greater than 150000
 Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
 Data Description txt file added 
 
-
-
-
-
