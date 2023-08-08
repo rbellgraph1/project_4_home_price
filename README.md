@@ -65,8 +65,30 @@ Rmse  *25,739.3203*   is the estimated that we would see.
 - 75,75,40  tanh, ReLU ,ReLU , output ReLU using 110 
 Rmse  35952.0664   is the estimated that we would see.
 
-Using Sigmoid activation as the output we would see rsme greater than 150000
+Using Sigmoid activation as the output we could see rsme greater than 150000
+
+![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/b2b94591-6953-49b6-b48d-b00f29639f1f)
+
+The following image is a chart that shows the number of houses sold based on age.
+
+![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/7f1cb8b5-d2aa-4bbf-993b-83c197b201e2)
+
+The following image is a chart that shows the number of houses sold based on the garage type.
+
+![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/c9beeee0-9783-4c91-b246-1bc52efc4e3b)
+
+The following image is a chart that shows the number of houses sold based on the type of neighborhood they are in.
+
+![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/8ee96cbb-44c5-48c8-b561-159cb0c39d2a)
+
+The following chart shows the number of data entries we have for our dataset.
+
+![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/1ccce762-8f15-4539-a03f-ab6d6d8e7962)
+
+The following image shows the amount of houses sold based on the number of cars in the garage.
+
+![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/23516fae-f17d-4163-88b2-233438c9d15f)
+
+The following image shows the number of houses sold based on house type.
 
 
-Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
-Data Description txt file added 
