@@ -16,7 +16,8 @@ The goal of this project was to analyze property sales records and fit the data 
 Several tools were used to accomplish this task and data was obtained from the link below..
 
 
-Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
+* Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data *
+* Data Descriptions are in the Resource Data Folder. In the text file.*
 
 ### **Using:** 
 - Pandas 
@@ -26,6 +27,9 @@ Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
 - Scikit-learn
 - ML (Logistic Regression Model)
 - ML  Root-Mean-Squared-Error (RMSE) 
+
+
+*Data Descriptions are in the Resource Data Folder. In the text file.*
 
 
 ### **Changes and outcomes:**
