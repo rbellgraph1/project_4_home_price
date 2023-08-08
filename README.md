@@ -10,6 +10,13 @@ Predict Housing prices
 - Phil  Okoth
 - Robert Bellgraph
 
+Overview:
+Buying and/or selling a home is one of the most important financial decisions in an individual’s life. The ability to predict home sales via machine learning  provides important information and benefits to these investments in the real estate market.    
+The goal of this project was to analyze property sales records and fit the data to a model that help predict sale prices most accurately.  
+Several tools were used to accomplish this task and data was obtained from the link below..
+
+
+Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
 
 ### **Using:** 
 - Pandas 
@@ -64,6 +71,7 @@ Using Sigmoid activation as the output we would see rsme greater than 150000
 Data:  https://www.kaggle.com/competitions/home-data-for-ml-course/data
 Data Description txt file added 
 
+![image](https://github.com/rbellgraph1/project_4_home_price/assets/124213934/19b75695-19b3-40b1-9c1b-de02618c651d)
 
 
 
